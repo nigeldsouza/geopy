@@ -1,6 +1,6 @@
-.pyc
+*.pyc
 **/dist
 **/build
-**/_pycache_
+**/__pycache__
 .vscode
 **/ngeo.egg-info
